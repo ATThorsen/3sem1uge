@@ -1,0 +1,7 @@
+rest\service\ApplicationConfig.class
+dto\CustomerDTO.class
+entities\MakeTestData.class
+facades\BankFacade.class
+entities\BankCustomer.class
+rest\service\BankCustomerResource.class
+entities\BankCustomer_.class
